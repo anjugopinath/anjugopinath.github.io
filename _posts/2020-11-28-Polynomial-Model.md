@@ -1,7 +1,7 @@
 ---
 
 layout: post
-author: stephen
+author: anju
 title:  Polynomial Model
 description: Polynomial Model applied to Air Quality Data
 categories: [Polynomial Model,Jupyter Notebook,Python ]
