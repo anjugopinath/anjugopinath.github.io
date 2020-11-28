@@ -5,7 +5,7 @@ author: stephen
 title:  Polynomial Model
 description: Polynomial Model applied to Air Quality Data
 categories: [Polynomial Model,Jupyter Notebook,Python ]
-image: https://cdn-images-1.medium.com/max/13440/1*gZe6olWL6OOCDDX04LVJSA.jpeg
+image: https://en.wikipedia.org/wiki/Polynomial_regression#/media/File:Polyreg_scheffe.svg
 
 ---
 
