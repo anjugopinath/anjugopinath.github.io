@@ -9,7 +9,7 @@ image: https://en.wikipedia.org/wiki/Polynomial_regression#/media/File:Polyreg_s
 
 ---
 
-Link to Jupyter Notebook : https://github.com/anjugopinath/CS545/blob/main/Gopinath-A1.ipynb
+[Link to Github](https://github.com/anjugopinath/CS545/blob/main/Gopinath-A1.ipynb)
 
 ---
 
