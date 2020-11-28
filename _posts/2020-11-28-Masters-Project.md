@@ -2,8 +2,8 @@
 
 layout: post
 author: anju
-title:  Masters' Project
-description: Masters' Project
+title:  Masters Project
+description: Masters Project
 categories: [Point Clouds, Drone, ELAS,OpenCV ]
 image: https://unsplash.com/photos/AT77Q0Njnt0
 
