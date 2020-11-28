@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Programming
-permalink: /programming
 comments: true
 ---
 
