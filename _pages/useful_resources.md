@@ -9,7 +9,7 @@ comments: false
 <div class="col-md-8 pr-5">
 
 
-<p>Conda</p>
+<h3>Conda</h3>
    <a href="https://towardsdatascience.com/a-guide-to-conda-environments-bc6180fc533">Anaconda environment</a> 
 
 
