@@ -1,6 +1,23 @@
+---
+layout: page
+title: CV
+permalink: /useful
+comments: false
+---
 
-Education
+<div class="row justify-content-between">
+<div class="col-md-8 pr-5">
 
-Work Experience
 
-Teaching
+<h5>Education</h5>
+   <br>
+   <br>
+<h5>Work Experience</h5>
+<h5>Teaching</h5>
+<br />
+
+
+</div>
+
+
+</div>
