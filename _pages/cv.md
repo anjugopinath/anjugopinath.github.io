@@ -12,6 +12,6 @@ and here
 -->
 
 
-<embed src="https://anjugopinath.github.io/resume/Gibson-AFF.pdf" type="application/pdf" width="100%" height="100%" />
+<embed src="https://anjugopinath.github.io/resume/Gibson-AFF.pdf" type="application/pdf" width="100%" height="100" scrolling="no"/>
 
 
