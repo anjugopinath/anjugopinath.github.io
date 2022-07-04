@@ -5,23 +5,6 @@ permalink: /cv
 comments: false
 ---
 
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
-
-
-<h5>Education</h5>
-   <br>
-   <br>
-<h5>Work Experience</h5>
-<h5>Teaching</h5>
-<br />
-
-
-</div>
-
-
-</div>
-
 <!---
 your comment goes here
 and here
