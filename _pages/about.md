@@ -18,7 +18,3 @@ comments: false
 
 {% include contact.html %}
 
-</div>
-
-
-</div>
