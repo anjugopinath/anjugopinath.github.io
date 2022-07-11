@@ -14,7 +14,10 @@ comments: false
    <br>
    <br>
 <h5>Random</h5>
-   <a href=" https://www.uwsuper.edu/career/students/upload/Resume-Section-Headings.pdf">Resume Section Headings</a> 
+   <a href=" https://www.uwsuper.edu/career/students/upload/Resume-Section-Headings.pdf">Resume section headings</a> 
+      <a href="    https://ravirao.wordpress.com/2005/11/19/latex-tips-to-meet-publication-page-limits/
+">Latex tips to meet publication page limits</a> 
+
 
 
 <br />
