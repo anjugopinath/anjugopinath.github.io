@@ -20,4 +20,40 @@ comments: false
 <br />
 
 {% include contact.html %}
+  
+  .section {
+  border: 1px solid #ccc;
+  display: flex;
+  flex-direction: row;
+  font-family: sans-serif;
+}
+
+.paragraph {
+  color: #555;
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  padding: 20px;
+}
+
+.title {
+  font-size: 24px;
+  color: #222;
+  line-height: 24px;
+}
+<section class="section">
+  <img src="https://placehold.it/150x150" class="image" />
+  <div class="content">
+
+    <h2 class="title">
+      This is a title
+    </h2>
+    <p class="paragraph">
+
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. At non ex earum, libero dignissimos voluptates. Quis beatae dolorem autem ipsa!
+    </p>
+  </div>
+</section>
 
