@@ -1,6 +1,6 @@
 <html>
 <head>
-
+<link rel="stylesheet" type="text/css" href="https://anjugopinath.github.io/styles/updates.css">
 </head>
 <body>
 
