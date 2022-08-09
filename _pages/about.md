@@ -20,14 +20,7 @@ comments: false
 
 {% include contact.html %}
   
-  <div style="display:inline-block;vertical-align:right;">
-<img src="https://loremflickr.com/320/240" alt="img"/>
-</div>
-<div style="display:inline-block;">
-<p>
-Here goes the text content.
-</p>
-</div>
+  
 
   
 
