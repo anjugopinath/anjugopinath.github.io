@@ -62,7 +62,7 @@ body{
   transition:.5s;
 }
 .timeline ul li:hover{
-  background-color:#071f2a;
+  background-color:#34ace0;
 }
 .timeline ul li:hover:before{
   background-color:#0F0;
