@@ -4,13 +4,13 @@ title: Updates
 permalink: /updates
 comments: false
 ---
-<!--
+
 <html>
 <head>
 <link rel="stylesheet" type="text/css" href="https://anjugopinath.github.io/styles/updates.css">
 </head>
 <body>
--->
+
 <div class="timeline">
   <div class="outer">
     <div class="card">
@@ -45,8 +45,8 @@ comments: false
     </div>
   </div>
 </div>
-  <!--
+  
   </body>
 </html>
--->
+
 
