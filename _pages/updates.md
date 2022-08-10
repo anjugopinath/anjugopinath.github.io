@@ -74,7 +74,7 @@ comments: false
         <div class="content">
           <!--<h3>What Is Lorem Ipsum?</h3>-->
           <p>
-            Enrolled for PhD in Computer Science at Colorado State University.
+            Enrolled for Ph.D. in Computer Science at Colorado State University.
           </p>
         </div>
       </li>
