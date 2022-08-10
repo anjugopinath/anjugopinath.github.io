@@ -59,39 +59,22 @@ comments: false
 <body>
   <div class="timeline">
     <ul>
+      
       <li>
-        <span>3rd January 2020</span>
+        <span>April 2022</span>
         <div class="content">
-          <h3>What Is Lorem Ipsum?</h3>
+          <!--<h3>What Is Lorem Ipsum?</h3>-->
           <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+            Cleared the Ph.D. Research exam (Qualifiers).
           </p>
         </div>
       </li>
       <li>
-        <span>21st Jun 2019</span>
+        <span>August 2020</span>
         <div class="content">
-          <h3>What Is Lorem Ipsum?</h3>
+          <!--<h3>What Is Lorem Ipsum?</h3>-->
           <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-          </p>
-        </div>
-      </li>
-      <li>
-        <span>15th April 2018</span>
-        <div class="content">
-          <h3>What Is Lorem Ipsum?</h3>
-          <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-          </p>
-        </div>
-      </li>
-      <li>
-        <span>22nd Mars 2017</span>
-        <div class="content">
-          <h3>What Is Lorem Ipsum?</h3>
-          <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.
+            Enrolled for PhD in Computer Science at Colorado State University.
           </p>
         </div>
       </li>
