@@ -34,7 +34,7 @@ body{
 }
 .timeline ul li span{
   display:inline-block;
-  background-color:#1685b8;
+  background-color:#00ab6b;
   border-radius:25px;
   padding:2px 5px;
   font-size:15px;
@@ -55,7 +55,7 @@ body{
   content:'';
   width:10px;
   height:10px;
-  background-color:#34ace0;
+  background-color:#00ab6b;
   border-radius:50%;
   left:-11px;
   top:28px;
