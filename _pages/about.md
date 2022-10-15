@@ -16,7 +16,7 @@ comments: false
 <body>
   
   <div class="content">
-    <img src="https://anjugopinath.github.io/styles/AnjuGopinath.png"/ alt="" >
+    <img src="https://anjugopinath.github.io/styles/AnjuGopinath.png" alt="" >
 
   <p>I am Anju, a Ph.D. student at Colorado State University. I am advised by <a href="https://www.nikhilkrishnaswamy.com/">Dr. Nikhil Krishnaswamy</a>. I specialize in Computer Vision and Machine Learning.</p>
   <!-- <img src="images/AnjuGopinath.png" alt="hi" align="right"/> -->
