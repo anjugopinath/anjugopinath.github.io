@@ -11,12 +11,12 @@ comments: false
 <head>
   <title>Pure CSS Timeline Design With Cool Hover Effects</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" type="text/css" href="https://anjugopinath.github.io/styles/about.css">
+ <!-- <link rel="stylesheet" type="text/css" href="https://anjugopinath.github.io/styles/about.css">-->
 </head>
 <body>
   
   <div class="content">
-    <img src="https://anjugopinath.github.io/styles/AnjuGopinath.png" alt="" >
+    <img style="text-align: left;" src="https://anjugopinath.github.io/styles/AnjuGopinath.png" alt="" >
 
   <p>I am Anju, a Ph.D. student at Colorado State University. I am advised by <a href="https://www.nikhilkrishnaswamy.com/">Dr. Nikhil Krishnaswamy</a>. I specialize in Computer Vision and Machine Learning.</p>
   <!-- <img src="images/AnjuGopinath.png" alt="hi" align="right"/> -->
