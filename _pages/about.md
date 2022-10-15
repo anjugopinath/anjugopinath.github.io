@@ -11,7 +11,7 @@ comments: false
 <head>
   <title>Pure CSS Timeline Design With Cool Hover Effects</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
- <!-- <link rel="stylesheet" type="text/css" href="https://anjugopinath.github.io/styles/about.css">-->
+  <link rel="stylesheet" type="text/css" href="https://anjugopinath.github.io/styles/about.css">
 </head>
 <body>
   
