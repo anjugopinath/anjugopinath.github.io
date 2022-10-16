@@ -1,11 +1,12 @@
 .content {
-    width: 800px;
+    width: 1000px;
     padding: 20px;
     overflow: hidden;
 }
 
 .content img {
     margin-right: 15px;
+    height : 200px;
     float: left;
 }
 
