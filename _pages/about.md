@@ -23,7 +23,7 @@ comments: false
   <!-- <img src="images/AnjuGopinath.png" alt="hi" align="right"/> -->
 
 <p> I did my Master’s in Computer Science and Engineering at IIT Madras, India. Previously, I worked at Subex Ltd., Intel India Pvt. Ltd and Oppo US Research Centre. My main research interests are hand grasps and <a href="http://cs.brown.edu/courses/cs137/2017/readings/Gibson-AFF.pdf">affordances</a>. Among other things, this has applications in robots tasked to pick, transfer and place objects at desired locations in factories, or avatars interacting with objects in mixed reality environments. </p>
-<p> Feel free to email me regarding collaboration opportunities at anju@colostate.edu </p>
+<p> Feel free to email me regarding collaboration opportunities at anju@colostate.edu . </p>
  </div>
 </body>
 </html>
