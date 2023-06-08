@@ -71,7 +71,15 @@ ga('send', 'pageview');
 					{% else %}
 					<li class="nav-item">
 					{% endif %}
-						<a class="nav-link" href="{{ site.baseurl }}/about">About</a>
+						<a class="nav-link" href="{{ site.baseurl }}/index.html">About</a>
+					</li>
+					
+					{% if page.url == "/pubs" %}
+					<li class="nav-item active">
+					{% else %}
+					<li class="nav-item">
+					{% endif %}
+						<a class="nav-link" href="{{ site.baseurl }}/pubs">Publications</a>
 					</li>
 					
 					{% if page.url == "/projects" %}
@@ -79,7 +87,7 @@ ga('send', 'pageview');
 					{% else %}
 					<li class="nav-item">
 					{% endif %}
-						<a class="nav-link" href="{{ site.baseurl }}/index.html">Projects</a>
+						<a class="nav-link" href="{{ site.baseurl }}/projects">Projects</a>
 					</li>
 					
 					{% if page.url == "/cv" %}
