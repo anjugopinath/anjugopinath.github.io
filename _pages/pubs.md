@@ -11,7 +11,12 @@ comments: false
 
 <h5>Grounding human-object interaction to affordance behavior in multimodal datasets
 </h5>
-   <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9923013/">Paper</a> <a href="https://github.com/VoxML/affordance-annotation">Code</a>
+     <br/>
+   Alexander Henlein, <b>Anju Gopinath</b>, Nikhil Krishnaswamy, Alexander Mehler, James Pustejovsky
+   <br/>
+   Frontiers in Artificial Intelligence, 2023
+   [<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9923013/">Paper</a>] [<a href="https://github.com/VoxML/affordance-annotation">Code</a>]
+ 
 
 </div>
 
