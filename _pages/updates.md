@@ -105,9 +105,9 @@ comments: false
         <span>August 2020</span>
         <div class="content">
           <!--<h3>What Is Lorem Ipsum?</h3>-->
-          <p>
+          
             Enrolled for Ph.D. in Computer Science at Colorado State University.
-          </p>
+          
         </div>
       </li>
     </ul>
