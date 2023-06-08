@@ -62,6 +62,37 @@ comments: false
     <ul>
       
       <li>
+        <span>January 2023</span>
+        <div class="content">
+          <!--<h3>What Is Lorem Ipsum?</h3>-->
+          <p>
+           Started the 3 month on-site research internship at National University of Singapore (NUS).
+          </p>
+        </div>
+      </li>
+      
+      <li>
+        <span>January 2023</span>
+        <div class="content">
+          <!--<h3>What Is Lorem Ipsum?</h3>-->
+          <p>
+            Our paper is accepted to Frontiers in AI.
+          </p>
+        </div>
+      </li>
+      
+       <li>
+        <span>June 2022</span>
+        <div class="content">
+          <!--<h3>What Is Lorem Ipsum?</h3>-->
+          <p>
+            Started the 2 month virtual research internship in TU Graz, Austria..
+          </p>
+        </div>
+      </li>
+      
+      
+      <li>
         <span>April 2022</span>
         <div class="content">
           <!--<h3>What Is Lorem Ipsum?</h3>-->
