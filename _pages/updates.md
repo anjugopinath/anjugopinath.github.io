@@ -72,11 +72,14 @@ comments: false
       </li>
       
       <li>
-        <span>January 2023</span>
+        <span>2023</span>
         <div class="content">
           <!--<h3>What Is Lorem Ipsum?</h3>-->
           <p>
-            Our paper is accepted to Frontiers in AI.
+           May: Started the 3 month on-site research internship at National University of Singapore (NUS).
+          </p>
+          <p>
+            January: Our paper is accepted to Frontiers in AI.
           </p>
         </div>
       </li>
@@ -93,20 +96,23 @@ comments: false
       
       
       <li>
-        <span>April 2022</span>
+        <span>2022</span>
         <div class="content">
           <!--<h3>What Is Lorem Ipsum?</h3>-->
           <p>
-            Cleared the Ph.D. Research exam (Qualifiers).
+            June: Started the 2 month virtual research internship in TU Graz, Austria..
+          </p>
+          <p>
+            April: Cleared the Ph.D. Research exam (Qualifiers).
           </p>
         </div>
       </li>
       <li>
-        <span>August 2020</span>
+        <span>2020</span>
         <div class="content">
           <!--<h3>What Is Lorem Ipsum?</h3>-->
           <p>
-            Enrolled for Ph.D. in Computer Science at Colorado State University.
+            August: Enrolled for Ph.D. in Computer Science at Colorado State University.
           </p>
         </div>
       </li>
