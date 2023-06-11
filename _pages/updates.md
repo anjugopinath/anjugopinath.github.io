@@ -101,8 +101,7 @@ comments: false
           <!--<h3>What Is Lorem Ipsum?</h3>-->
           <p>
             June: Started the 2 month virtual research internship in TU Graz, Austria..
-          </p>
-          <p>
+       <br/>
             April: Cleared the Ph.D. Research exam (Qualifiers).
           </p>
         </div>
