@@ -68,9 +68,9 @@ comments: false
         <div class="content">
           <!--<h3>What Is Lorem Ipsum?</h3>-->
           <p>
-           May: Started the 3 month on-site research internship at National University of Singapore (NUS).
+           [ May ] Started the 3 month on-site research internship at National University of Singapore (NUS).
           <br/>
-            January: Our paper is accepted to Frontiers in AI.
+           [ January ] Our paper is accepted at Frontiers in AI, 2023.
           </p>
         </div>
       </li>
@@ -82,9 +82,9 @@ comments: false
         <div class="content">
           <!--<h3>What Is Lorem Ipsum?</h3>-->
           <p>
-            June: Started the 2 month virtual research internship in TU Graz, Austria..
+            [ June ] Started the 2 month virtual research internship in TU Graz, Austria..
        <br/>
-            April: Cleared the Ph.D. Research exam (Qualifiers).
+            [ April ] Cleared the Ph.D. Research exam (Qualifiers).
           </p>
         </div>
       </li>
@@ -93,7 +93,7 @@ comments: false
         <div class="content">
           <!--<h3>What Is Lorem Ipsum?</h3>-->
           <p>
-            August: Enrolled for Ph.D. in Computer Science at Colorado State University.
+            [ August ] Enrolled for Ph.D. in Computer Science at Colorado State University.
           </p>
         </div>
       </li>
