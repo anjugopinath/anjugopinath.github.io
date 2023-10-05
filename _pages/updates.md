@@ -68,9 +68,15 @@ comments: false
         <div class="content">
           <!--<h3>What Is Lorem Ipsum?</h3>-->
           <p>
+          [ October ] Attending the CH4 Connections Conference at CSU.
+          <br/>
+          [ August ] Back at CSU as a Graduate Research Assistant (part-time) at the Energy Institute.
+          <br/>
+          [ May ] Attending Singapore Vision Day (May 24-25).
+          <br/>
            [ May ] Started the 3 month on-site research internship at National University of Singapore (NUS).
           <br/>
-           [ January ] Our paper is accepted at Frontiers in AI, 2023.
+           [ January ] Our paper is published at Frontiers in AI, 2023.
           </p>
         </div>
       </li>
@@ -93,7 +99,7 @@ comments: false
         <div class="content">
           <!--<h3>What Is Lorem Ipsum?</h3>-->
           <p>
-            [ August ] Enrolled for Ph.D. in Computer Science at Colorado State University.
+            [ August ] Enrolled for Ph.D. in Computer Science at Colorado State University with a part-time appointment as a Graduate Teaching Assistant.
           </p>
         </div>
       </li>
