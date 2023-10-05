@@ -76,7 +76,7 @@ comments: false
           <br/>
            [ May ] Started the 3 month on-site research internship at National University of Singapore (NUS).
           <br/>
-           [ January ] Our paper is accepted at Frontiers in AI, 2023.
+           [ January ] Our paper is published at Frontiers in AI, 2023.
           </p>
         </div>
       </li>
