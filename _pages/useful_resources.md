@@ -18,10 +18,9 @@ comments: false
    <br/>
    <a href="    https://ravirao.wordpress.com/2005/11/19/latex-tips-to-meet-publication-page-limits/
 ">Latex tips to meet publication page limits</a> 
-
-
-
 <br />
+ <a href=" https://vincentlepetit.github.io/files/paper_writing.pdf">Writing a Good Research Paper</a> 
+   <br/>
 
 
 </div>
