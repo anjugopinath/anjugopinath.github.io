@@ -14,7 +14,17 @@ comments: false
 <body>
   <div class="timeline">
     <ul>
-      
+      <li>
+        <span>2024</span>
+        <div class="content">
+          <!--<h3>What Is Lorem Ipsum?</h3>-->
+          <p>
+            [ January ] This semester, I will be a GRA (part-time) working with <a href="https://compsci.colostate.edu/person/?id=B671CC0FDBA374C584551B7982C0D4DE&sq=t">Dr. Craig Partridge</a>, while I also continue my research on affordance based HOI.
+       <br/>
+            
+          </p>
+        </div>
+      </li>
      
       
       <li>
@@ -28,7 +38,7 @@ comments: false
           <br/>
           [ May ] Attending Singapore Vision Day (May 24-25).
           <br/>
-           [ May ] Started the 3 month on-site research internship at National University of Singapore (NUS).
+           [ May ] Started the 3 month on-site research internship at National University of Singapore (NUS), where I am working with <a href="https://www.comp.nus.edu.sg/~ayao/">Dr. Angela Yao</a> and Ziwei Yu.
           <br/>
            [ January ] Our paper is published at Frontiers in AI, 2023.
           </p>
