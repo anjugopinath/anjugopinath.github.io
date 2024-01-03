@@ -34,12 +34,12 @@ comments: false
           <p>
           [ October ] Attending the CH4 Connections Conference at CSU.
           <br/>
-          [ August ] Back at CSU as a Graduate Research Assistant (part-time) at the Energy Institute.
-          <br/>
+          [ August ] Back at CSU as a Graduate Research Assistant (part-time) at the <a href="https://energy.colostate.edu/">Energy Institute</a>. 
+          <br/> 
           [ May ] Attending Singapore Vision Day (May 24-25).
           <br/>
-           [ May ] Started the 3 month on-site research internship at National University of Singapore (NUS), where I am working with <a href="https://www.comp.nus.edu.sg/~ayao/">Dr. Angela Yao</a> and Ziwei Yu.
-          <br/>
+           [ May ] Started the 3 month on-site research internship at National University of Singapore (NUS), where I am working with <a href="https://www.comp.nus.edu.sg/~ayao/">Dr. Angela Yao</a> and <a href="https://sites.google.com/view/yuziwei/home">Ziwei Yu</a>. 
+          <br/>     
            [ January ] Our paper is published at Frontiers in AI, 2023.
           </p>
         </div>
