@@ -36,7 +36,7 @@ comments: false
           <p>  
           [ November ] <span>Volunteering</span> Part of the Student Internship Panel for <a href="https://www.cs.colostate.edu/~cs192/#/syllabus">CS192</a> - the First Year Computer Science Seminar, where we talked in-depth about academic and industry internships.
           <br/>
-          [ October ] Attending the CH4 Connections Conference at CSU.
+          [ October ] Attending the CH4 Connections Conference at CSU (October 3-5).
           <br/>
           [ August ] Back at CSU as a Graduate Research Assistant (part-time) at the <a href="https://energy.colostate.edu/">Energy Institute</a> where I report to <a href="https://energy.colostate.edu/jerry-duggan/">Jerry Duggan</a>. 
           <br/>  
