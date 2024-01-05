@@ -32,9 +32,9 @@ comments: false
       <li>
         <span>2023</span>
         <div class="content">
-          <!--<h3>What Is Lorem Ipsum?</h3>-->
+          <!--<h3>What Is Lorem Ipsum?</h3>--> 
           <p>  
-          [ November ] [Volunteering] Part of the Student Internship Panel for <a href="https://www.cs.colostate.edu/~cs192/#/syllabus">CS192</a> - the First Year Computer Science Seminar, where we talked in-depth about academic and industry internships.
+          [ November ] <span style="color:red;">[Volunteering]</span> Part of the Student Internship Panel for <a href="https://www.cs.colostate.edu/~cs192/#/syllabus">CS192</a> - the First Year Computer Science Seminar, where we talked in-depth about academic and industry internships.
           <br/>
           [ October ] Attending the CH4 Connections Conference at CSU.
           <br/>
