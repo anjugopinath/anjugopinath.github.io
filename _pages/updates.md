@@ -19,6 +19,8 @@ comments: false
         <div class="content">
           <!--<h3>What Is Lorem Ipsum?</h3>-->
           <p>
+            [ January ] Gave a talk to the team headed by Jerry Duggan at the Energy Institute, CSU on using Neural Networks for time series classification of methane emissions data.
+          <br/>
             [ January ] This semester, I will be a GRA (part-time) working with <a href="https://compsci.colostate.edu/person/?id=B671CC0FDBA374C584551B7982C0D4DE&sq=t">Dr. Craig Partridge</a>, while I also continue my research on affordance based HOI.
        <br/>
             
@@ -31,11 +33,15 @@ comments: false
         <span>2023</span>
         <div class="content">
           <!--<h3>What Is Lorem Ipsum?</h3>-->
-          <p>
+          <p>  
+          [ November ] [Volunteering] Part of the Student Internship Panel for href="https://www.cs.colostate.edu/~cs192/#/syllabus">CS192</a> - the First Year Computer Science Seminar, where we talked in-depth about academic and industry internships.
+          <br/>
           [ October ] Attending the CH4 Connections Conference at CSU.
           <br/>
           [ August ] Back at CSU as a Graduate Research Assistant (part-time) at the <a href="https://energy.colostate.edu/">Energy Institute</a> where I report to <a href="https://energy.colostate.edu/jerry-duggan/">Jerry Duggan</a>. 
           <br/>  
+          [ July ] Presented my work to Dr. Miaomiao Liu from Australian National University when she visited NUS.
+          <br/>
           [ May ] Attending Singapore Vision Day (May 24-25).
           <br/>
            [ May ] Started the 3 month on-site research internship at National University of Singapore (NUS), where I am working with <a href="https://www.comp.nus.edu.sg/~ayao/">Dr. Angela Yao</a> and <a href="https://sites.google.com/view/yuziwei/home">Ziwei Yu</a>. 
