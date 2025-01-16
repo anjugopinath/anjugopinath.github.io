@@ -19,7 +19,7 @@ comments: false
         <div class="content">
           <!--<h3>What Is Lorem Ipsum?</h3>-->
           <p>
-            [January] Starting this Spring semester 2025, I will be a GRA working part-time with <a href=https://www.engr.colostate.edu/ece/people/v-chandrasekar/">Dr. V Chandrasekar</a> while I also continue with my work on affordances.
+            [January] Starting this Spring semester 2025, I will be a GRA working part-time with <a href="https://www.engr.colostate.edu/ece/people/v-chandrasekar/">Dr. V Chandrasekar</a> while I also continue with my work on affordances.
           </p>
         </div>
       </li>
