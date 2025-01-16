@@ -29,6 +29,6 @@ Feel free to email me regarding collaboration opportunities at anju [at] colosta
 
 </div>
 
- 
+ <br/>
 
 {% include contact.html %}
