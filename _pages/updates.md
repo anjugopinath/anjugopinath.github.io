@@ -14,14 +14,26 @@ comments: false
 <body>
   <div class="timeline">
     <ul>
+    <li>
+        <span>2025</span>
+        <div class="content">
+          <!--<h3>What Is Lorem Ipsum?</h3>-->
+          <p>
+            [January] Starting this Spring semester 2025, I will be a GRA working part-time with <a href=https://www.engr.colostate.edu/ece/people/v-chandrasekar/">Dr. V Chandrasekar</a> while I also continue with my work on affordances.
+          </p>
+        </div>
+      </li>
+      
       <li>
         <span>2024</span>
         <div class="content">
           <!--<h3>What Is Lorem Ipsum?</h3>-->
           <p>
+            [December] Our paper titled "Looking for Errors TCP Missed" is accepted at IEEE/IFIP NOMS 2025. This is from my work with Dr. Craig Partridge.
+            <br/>
             [ January ] Gave a talk at the Energy Institute, CSU on using Neural Networks for time series classification of methane emissions data.
           <br/>
-            [ January ] This semester, I will be a GRA (part-time) working with <a href="https://compsci.colostate.edu/person/?id=B671CC0FDBA374C584551B7982C0D4DE&sq=t">Dr. Craig Partridge</a>, while I also continue my research on affordance based HOI.
+            [ January ] This spring and summer semesters, I will be a GRA (part-time) working with <a href="https://compsci.colostate.edu/person/?id=B671CC0FDBA374C584551B7982C0D4DE&sq=t">Dr. Craig Partridge</a>, while I also continue my research on affordance based HOI.
        <br/>
             
           </p>
