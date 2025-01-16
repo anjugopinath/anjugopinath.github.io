@@ -1,4 +1,10 @@
-<!DOCTYPE html>
+---
+layout: page
+title: About me
+permalink: /about
+comments: false
+---
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
