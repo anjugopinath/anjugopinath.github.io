@@ -4,6 +4,8 @@ title: About me
 permalink: /about
 comments: false
 ---
+<div class="row justify-content-between">
+<div class="col-md-8 pr-5">
 
 <html lang="en">
 <head>
@@ -13,19 +15,7 @@ comments: false
   <link rel="stylesheet" href="https://anjugopinath.github.io/styles/about.css">
   <style>
     /* General Styles */
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      line-height: 1.6;
-    }
-
-    .content {
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 15px;
-      box-sizing: border-box;
-    }
+  
 
     img {
       max-width: 100%;
@@ -39,14 +29,7 @@ comments: false
       margin: 15px 0;
     }
 
-    a {
-      color: #007bff;
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
+    
 
     /* Responsive Layout */
     @media (max-width: 768px) {
