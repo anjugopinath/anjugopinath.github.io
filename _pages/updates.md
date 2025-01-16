@@ -29,7 +29,7 @@ comments: false
         <div class="content">
           <!--<h3>What Is Lorem Ipsum?</h3>-->
           <p>
-            [December] Our paper titled "Looking for Errors TCP Missed" is accepted at IEEE/IFIP NOMS 2025. This is from my work with Dr. Craig Partridge.
+            [December] <span>Paper</span> Our paper titled "Looking for Errors TCP Missed" is accepted at IEEE/IFIP NOMS 2025. This is from my work with Dr. Craig Partridge.
             <br/>
             [ January ] Gave a talk at the Energy Institute, CSU on using Neural Networks for time series classification of methane emissions data.
           <br/>
@@ -58,7 +58,7 @@ comments: false
           <br/>
            [ May ] Started the 3 month on-site research internship at National University of Singapore (NUS), where I am working with <a href="https://www.comp.nus.edu.sg/~ayao/">Dr. Angela Yao</a> and <a href="https://sites.google.com/view/yuziwei/home">Ziwei Yu</a>. 
           <br/>     
-           [ January ] Our paper is published at Frontiers in AI, 2023.
+           [ January ] <span>Paper</span> Our paper is published at Frontiers in AI, 2023.
           </p>
         </div>
       </li>
