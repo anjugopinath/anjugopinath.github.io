@@ -10,8 +10,9 @@ comments: false
    
 <div class="col-md-8 pr-5">
    <h5>Looking for Errors TCP Misses</h5>
-   Jack Fitzgerald, <b>Anju Gopinath</b>, Logan Cadman, Sepideh Abdollah, Susmit Shannigrahi, Craig Partridge
+Jack Fitzgerald, <b>Anju Gopinath</b>, Logan Cadman, Sepideh Abdollah, Susmit Shannigrahi, Craig Partridge
    <br/>IEEE/IFIP NOMS, 2025
+    <br/>
 </div>
 
 <div class="col-md-8 pr-5">
