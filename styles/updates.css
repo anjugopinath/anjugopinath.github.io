@@ -71,7 +71,7 @@ body{
 @media (max-width:300px){
   .timeline{
     width:100%;
-    padding:30px 5px 30px 10px;
+    padding:10px;
   }
   .timeline ul li .content h3{
     color:#34ace0;
