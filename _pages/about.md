@@ -7,7 +7,7 @@ comments: false
 <div class="row justify-content-between">
   <div class="col-md-4">
     <div class="content">
-      <img style="border-radius: 50%; width: 100%; max-width: 200px; margin-bottom: 20px;" src="https://anjugopinath.github.io/styles/AnjuGopinath.png" alt="Anju Gopinath">
+      <img style="border-radius: 50%; width: 100%; max-width: 300px; margin-bottom: 20px;" src="https://anjugopinath.github.io/styles/AnjuGopinath.png" alt="Anju Gopinath">
     </div>
   </div>
   <div class="col-md-8 pr-5">
