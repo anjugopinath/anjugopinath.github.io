@@ -8,6 +8,7 @@ comments: false
   <div class="col-md-4">
     <div class="content">
       <img style="border-radius: 50%; width: 100%; max-width: 300px; margin-bottom: 20px;" src="https://anjugopinath.github.io/styles/AnjuGopinath.png" alt="Anju Gopinath">
+      {% include contact.html %}
     </div>
   </div>
   <div class="col-md-8 pr-5">
@@ -32,5 +33,3 @@ comments: false
 </div>
 
 <br/>
-
-{% include contact.html %}
