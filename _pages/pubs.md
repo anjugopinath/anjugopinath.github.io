@@ -12,9 +12,9 @@ comments: false
    <h5>Looking for Errors TCP Misses</h5>
 Jack Fitzgerald, <b>Anju Gopinath</b>, Logan Cadman, Sepideh Abdollah, Susmit Shannigrahi, Craig Partridge
    <br/>IEEE/IFIP NOMS, 2025
-    <br/>
+    
 </div>
-
+<br/>
 <div class="col-md-8 pr-5">
 <h5>Grounding human-object interaction to affordance behavior in multimodal datasets
 </h5>
