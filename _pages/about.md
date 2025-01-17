@@ -5,9 +5,9 @@ permalink: /about
 comments: false
 ---
 <div class="row">
-  <div class="col-md-12 d-flex align-items-center">
+  <div class="col-md-12 d-flex">
     <div class="content">
-      <img style="border-radius: 50%; width: 120px; margin-right: 20px;" src="https://anjugopinath.github.io/styles/AnjuGopinath.png" alt="Anju Gopinath">
+      <img style="border-radius: 50%; width: 180px; margin-right: 30px;" src="https://anjugopinath.github.io/styles/AnjuGopinath.png" alt="Anju Gopinath">
     </div>
     <div>
       <h1>Hi there!</h1>
