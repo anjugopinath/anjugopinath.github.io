@@ -21,7 +21,7 @@ comments: false
           <p>
             [ May ] Attended <a href="https://noms2025.ieee-noms.org/">IEEE/IFIP NOMS (12-16 May)</a> in beautiful Honolulu, Hawaii. ALOHA!!
           <br/>
-            [January] Starting this Spring semester 2025, I will be a GRA working part-time with <a href="https://www.engr.colostate.edu/ece/people/v-chandrasekar/">Dr. V Chandrasekar</a> while continuing my work on affordances.
+            [ January ] Starting this Spring semester 2025, I will be a GRA working part-time with <a href="https://www.engr.colostate.edu/ece/people/v-chandrasekar/">Dr. V Chandrasekar</a> while continuing my work on affordances.
             <br/>
             
           </p>
@@ -33,7 +33,7 @@ comments: false
         <div class="content">
           <!--<h3>What Is Lorem Ipsum?</h3>-->
           <p>
-            [December] <span>Paper</span> Our paper titled "Looking for Errors TCP Missed" is accepted at IEEE/IFIP NOMS 2025. This is from my work with Dr. Craig Partridge.
+            [ December ] <span>Paper</span> Our paper titled "Looking for Errors TCP Missed" is accepted at IEEE/IFIP NOMS 2025. This is from my work with Dr. Craig Partridge.
             <br/>
             [ January ] Gave a talk at the Energy Institute, CSU on using Neural Networks for time series classification of methane emissions data.
           <br/>
