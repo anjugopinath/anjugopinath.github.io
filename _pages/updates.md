@@ -19,7 +19,11 @@ comments: false
         <div class="content">
           <!--<h3>What Is Lorem Ipsum?</h3>-->
           <p>
+            [ May ] Attended <a href="https://noms2025.ieee-noms.org/">IEEE/IFIP NOMS (12-16 May)</a> in beautiful Honolulu, Hawaii. ALOHA!!
+          <br/>
             [January] Starting this Spring semester 2025, I will be a GRA working part-time with <a href="https://www.engr.colostate.edu/ece/people/v-chandrasekar/">Dr. V Chandrasekar</a> while continuing my work on affordances.
+            <br/>
+            
           </p>
         </div>
       </li>
