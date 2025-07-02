@@ -27,6 +27,9 @@ comments: false
       or avatars interacting with objects in mixed reality environments.
     </p>
     <p>
+      Apart from my thesis work, I have also been very fortunate to be mentored by experts in their respective fields — <a href="https://energy.colostate.edu/jerry-duggan/">Jerry Duggan</a>, <a href="https://compsci.colostate.edu/person/?id=B671CC0FDBA374C584551B7982C0D4DE&sq=t">Dr. Craig Partridge</a>, and <a href="https://www.engr.colostate.edu/ece/people/v-chandrasekar/">Dr. V Chandrasekar</a> — during my GRA positions at Colorado State University.
+    </p>
+    <p>
       Feel free to email me regarding collaboration opportunities at anju [at] colostate [dot] edu.
     </p>
   </div>
