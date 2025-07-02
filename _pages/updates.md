@@ -56,13 +56,13 @@ comments: false
           <p>  
           [ November ] <span>Volunteering</span> Part of the Student Internship Panel for <a href="https://www.cs.colostate.edu/~cs192/#/syllabus">CS192</a> - the First Year Computer Science Seminar, where we talked in-depth about academic and industry internships.
           <br/>
-          [ October ] Attending the CH4 Connections Conference at CSU (October 3-5).
+          [ October ] Attending the <a href="https://www.gti.energy/training-events/ch4-connections/">CH4 Connections Conference (October 3-5)</a> at Colorado State University.
           <br/>
           [ August ] Back at CSU as a Graduate Research Assistant (part-time) at the <a href="https://energy.colostate.edu/">Energy Institute</a> where I report to <a href="https://energy.colostate.edu/jerry-duggan/">Jerry Duggan</a>. 
           <br/>  
           [ July ] Presented my work to Dr. Miaomiao Liu from Australian National University when she visited NUS.
           <br/>
-          [ May ] Attending Singapore Vision Day (May 24-25).
+          [ May ] Presented a poster at <a href="https://www.comp.nus.edu.sg/~leegh/svd/">Singapore Vision Day (May 24-25)</a> at National University of Singapore.
           <br/>
            [ May ] Started the 3 month on-site research internship at National University of Singapore (NUS), where I am working with <a href="https://www.comp.nus.edu.sg/~ayao/">Dr. Angela Yao</a> and <a href="https://sites.google.com/view/yuziwei/home">Ziwei Yu</a>. 
           <br/>     
