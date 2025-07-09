@@ -21,7 +21,7 @@ comments: false
           <p>
             [ June ] Mentoring a team of 5 undergrads from Philippines, Jordan and Qatar for around 5 weeks on the topic 'ML applications'. They are hosted by <a href="https://www.engr.colostate.edu/ece/people/v-chandrasekar/">Dr. V Chandrasekar</a> at Colorado State University.
             <br/>
-            [ May ] Mentored a team of 2 final semester undergrad students from Sastra University, India (hosted by <a href="https://www.engr.colostate.edu/ece/people/v-chandrasekar/">Dr. V Chandrasekar</a> at Colorado State University) along with one another co-mentor. We mentored them the last month of their 4-month long stay.
+            [ May ] Mentored a team of 2 final semester undergrad students from Sastra University, India (hosted by <a href="https://www.engr.colostate.edu/ece/people/v-chandrasekar/">Dr. V Chandrasekar</a> at Colorado State University) along with two other co-mentors. We mentored them the last month of their 4-month long stay.
              <br/>
             [ May ] Attended <a href="https://noms2025.ieee-noms.org/">IEEE/IFIP NOMS (12-16 May)</a> (where our paper was accepted in the Experience Session) in beautiful Honolulu, Hawaii. ALOHA!!
           <br/>
