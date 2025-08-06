@@ -19,7 +19,7 @@ comments: false
         <div class="content">
           <!--<h3>What Is Lorem Ipsum?</h3>-->
           <p>
-            [ June ] Mentoring a team of 5 undergrads from Philippines, Jordan and Qatar for around 5 weeks on the topic 'ML applications'. They are hosted by <a href="https://www.engr.colostate.edu/ece/people/v-chandrasekar/">Dr. V Chandrasekar</a> at Colorado State University.
+            [ June ] Mentoring a team of 5 undergrads from Philippines, Jordan and Qatar for around 5 weeks on the topic 'Reflectivity Nowcasting & Other ML applications'. They are hosted by <a href="https://www.engr.colostate.edu/ece/people/v-chandrasekar/">Dr. V Chandrasekar</a> at Colorado State University.
             <br/>
             [ May ] Mentored a team of 2 final semester undergrad students from Sastra University, India (hosted by <a href="https://www.engr.colostate.edu/ece/people/v-chandrasekar/">Dr. V Chandrasekar</a> at Colorado State University) along with two other co-mentors. We mentored them the last month of their 4-month long stay.
              <br/>
