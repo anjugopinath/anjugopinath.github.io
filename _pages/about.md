@@ -27,7 +27,7 @@ comments: false
       or avatars interacting with objects in mixed reality environments.
     </p>
     <p>
-      Apart from my thesis work, I have also been very fortunate to be mentored by experts in their respective fields — <a href="https://energy.colostate.edu/jerry-duggan/">Jerry Duggan</a>, <a href="https://en.wikipedia.org/wiki/Craig_Partridge">Dr. Craig Partridge</a>, and <a href="https://www.engr.colostate.edu/ece/people/v-chandrasekar/">Dr. V Chandrasekar</a> — during my GRA positions at Colorado State University (CSU), and by <a href="https://www.comp.nus.edu.sg/~ayao/">Dr. Angela Yao</a> at National University of Singapore (NUS) for a short internship.
+      Apart from my thesis work, I have also been very fortunate to be mentored by experts in their respective fields — <a href="https://energy.colostate.edu/jerry-duggan/">Jerry Duggan</a>, <a href="https://natsci.source.colostate.edu/craig-partridge-appointed-to-max-planck-institute-advisory-board/">Dr. Craig Partridge</a>, and <a href="https://www.engr.colostate.edu/ece/people/v-chandrasekar/">Dr. V Chandrasekar</a> — during my GRA positions at Colorado State University (CSU), and by <a href="https://www.comp.nus.edu.sg/~ayao/">Dr. Angela Yao</a> at National University of Singapore (NUS) for a short internship.
     </p>
     <p>
       Feel free to email me regarding collaboration opportunities at anju [at] colostate [dot] edu.
