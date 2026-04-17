@@ -7,7 +7,7 @@ comments: false
 
 <div class="row justify-content-between">
 
-<div class="col-md-8 pr-5">
+<div class="col-md-8 pr-5 mb-4">
    <h5 style="margin-bottom: 0;">
   Why MLLMs Struggle to Determine Object Orientations
 </h5>
@@ -18,7 +18,7 @@ comments: false
 </div>
 
    
-<div class="col-md-8 pr-5">
+<div class="col-md-8 pr-5 mb-4">
    <h5 style="margin-bottom: 0;">
   Looking for Errors TCP Misses
 </h5>
