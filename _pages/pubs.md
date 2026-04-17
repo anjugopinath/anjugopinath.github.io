@@ -13,14 +13,14 @@ comments: false
    <h5 style="margin-bottom: 0;">
   Why MLLMs Struggle to Determine Object Orientations
 </h5>
-   Anju Gopinath, Nikhil Krishnaswamy, Bruce Draper
+   <b>Anju Gopinath</b>, Nikhil Krishnaswamy, Bruce Draper
    <br/>CVPR Findings (Main Track), 2026
    <br/>[<a href="https://arxiv.org/abs/2604.13321">Paper</a>] [<a href="https://github.com/anjugopinath/MLLM_Orientation">Code</a>]
     <br/>
 </div>
 
    
-<div class="col-md-8 pr-5 mb-4">
+<div class="col-md-8 mb-4">
    <h5 style="margin-bottom: 0;">
   Looking for Errors TCP Misses
 </h5>
