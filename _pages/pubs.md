@@ -14,10 +14,9 @@ comments: false
    Anju Gopinath, Nikhil Krishnaswamy, Bruce Draper
    <br/>CVPR Findings (Main Track), 2026
    <br/>[<a href="https://arxiv.org/abs/2604.13321">Paper</a>] [<a href="https://github.com/anjugopinath/MLLM_Orientation">Code</a>]
-    
+    <br/>
 </div>
-<br/>
-<br/>
+
    
 <div class="col-md-8 pr-5">
    <h5 style="margin-bottom: 0;">
@@ -26,7 +25,7 @@ comments: false
 Jack Fitzgerald, <b>Anju Gopinath</b>, Logan Cadman, Sepideh Abdollah, Susmit Shannigrahi, Craig Partridge
    <br/>IEEE/IFIP NOMS, 2025
    <br/>[<a href="https://ieeexplore.ieee.org/abstract/document/11073708">Paper</a>]
-   
+   <br/>
     
 </div>
 <br/>
