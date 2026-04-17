@@ -17,6 +17,7 @@ comments: false
     
 </div>
 <br/>
+<br/>
    
 <div class="col-md-8 pr-5">
    <h5 style="margin-bottom: 0;">
@@ -28,6 +29,7 @@ Jack Fitzgerald, <b>Anju Gopinath</b>, Logan Cadman, Sepideh Abdollah, Susmit Sh
    
     
 </div>
+<br/>
 <br/>
 <div class="col-md-8 pr-5">
    <h5 style="margin-bottom: 0;">
