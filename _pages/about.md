@@ -14,10 +14,9 @@ comments: false
   <div class="col-md-8 pr-5">
     <h1>Hi there!</h1>
     <p>
-      I am Anju, a Ph.D. student at Colorado State University. I am advised by 
+      I am Anju, a Ph.D. student at Colorado State University. I am co-advised by 
       <a href="https://www.nikhilkrishnaswamy.com/">Dr. Nikhil Krishnaswamy</a> at the 
-      <a href="https://www.signallab.ai/">SIGNAL</a> Lab and co-advised by 
-      <a href="https://www.cs.colostate.edu/~draper/">Dr. Bruce Draper</a>. I specialize in Computer Vision and Machine Learning.
+      <a href="https://www.signallab.ai/">SIGNAL</a> Lab and by <a href="https://www.cs.colostate.edu/~draper/">Dr. Bruce Draper</a>. I specialize in Computer Vision and Machine Learning.
     </p>
     <p>
       I did my Master’s in Computer Science and Engineering at IIT Madras, India. Previously, I worked at Subex Ltd., 
