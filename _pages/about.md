@@ -16,20 +16,14 @@ comments: false
     <p>
       I am Anju, a Ph.D. student at Colorado State University. I am co-advised by 
       <a href="https://www.nikhilkrishnaswamy.com/">Dr. Nikhil Krishnaswamy</a> at the 
-      <a href="https://www.signallab.ai/">SIGNAL</a> Lab and by <a href="https://www.cs.colostate.edu/~draper/">Dr. Bruce Draper</a>. I specialize in Computer Vision and Machine Learning.
+      <a href="https://www.signallab.ai/">SIGNAL</a> Lab and by <a href="https://www.cs.colostate.edu/~draper/">Dr. Bruce Draper</a>. My research falls under Representation Learning in Multimodal AI, investigating how vision-language models encode, represent, and process geometric properties. I also have some experience in <a href="http://cs.brown.edu/courses/cs137/2017/readings/Gibson-AFF.pdf">affordances</a>.
     </p>
     <p>
       I did my Master’s in Computer Science and Engineering at IIT Madras, India. Previously, I worked at Subex Ltd., 
-      Intel India Pvt. Ltd and Oppo US Research Centre. My main research interests are hand grasps and 
-      <a href="http://cs.brown.edu/courses/cs137/2017/readings/Gibson-AFF.pdf">affordances</a>. Among other things, 
-      this has applications in robots tasked to pick, transfer and place objects at desired locations in factories,
-      or avatars interacting with objects in mixed reality environments.
+      Intel India Pvt. Ltd and Oppo US Research Centre. Apart from my thesis work, I have also been very fortunate to be mentored by experts in their respective fields — <a href="https://energy.colostate.edu/jerry-duggan/">Jerry Duggan</a>, <a href="https://natsci.source.colostate.edu/craig-partridge-appointed-to-max-planck-institute-advisory-board/">Dr. Craig Partridge</a>, and <a href="https://www.engr.colostate.edu/ece/people/v-chandrasekar/">Dr. V Chandrasekar</a> — during my GRA positions at Colorado State University (CSU), and by <a href="https://www.comp.nus.edu.sg/~ayao/">Dr. Angela Yao</a> at National University of Singapore (NUS) for a short internship.
     </p>
     <p>
-      Apart from my thesis work, I have also been very fortunate to be mentored by experts in their respective fields — <a href="https://energy.colostate.edu/jerry-duggan/">Jerry Duggan</a>, <a href="https://natsci.source.colostate.edu/craig-partridge-appointed-to-max-planck-institute-advisory-board/">Dr. Craig Partridge</a>, and <a href="https://www.engr.colostate.edu/ece/people/v-chandrasekar/">Dr. V Chandrasekar</a> — during my GRA positions at Colorado State University (CSU), and by <a href="https://www.comp.nus.edu.sg/~ayao/">Dr. Angela Yao</a> at National University of Singapore (NUS) for a short internship.
-    </p>
-    <p>
-      Feel free to email me regarding collaboration opportunities at anju [at] colostate [dot] edu. Or, if you want to grab a coffee and discuss the latest in technology, reach out to me on LinkedIn.
+     If you want to grab a coffee and discuss the latest in technology or are interested in collaborating with me, reach out to me on LinkedIn or at anju [at] colostate [dot] edu.
     </p>
   </div>
 </div>
