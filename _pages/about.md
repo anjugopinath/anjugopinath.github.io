@@ -16,7 +16,7 @@ comments: false
     <p>
       I am Anju, a Ph.D. student at Colorado State University. I am co-advised by 
       <a href="https://www.nikhilkrishnaswamy.com/">Dr. Nikhil Krishnaswamy</a> at the 
-      <a href="https://www.signallab.ai/">SIGNAL</a> Lab and by <a href="https://www.cs.colostate.edu/~draper/">Dr. Bruce Draper</a>. My research falls under Representation Learning in Multimodal AI, investigating how vision-language models encode, represent, and process 2D object orientation properties. I also have some experience in <a href="http://cs.brown.edu/courses/cs137/2017/readings/Gibson-AFF.pdf">affordances</a>, Machine Learning for methane emissions classification and rainfall estimation.
+      <a href="https://www.signallab.ai/">SIGNAL</a> Lab and by <a href="https://www.cs.colostate.edu/~draper/">Dr. Bruce Draper</a>. My research falls under Representation Learning in Multimodal AI, investigating how vision-language models encode, represent, and process 2D object orientation properties. I also have some experience in <a href="http://cs.brown.edu/courses/cs137/2017/readings/Gibson-AFF.pdf">affordances</a>, Machine Learning for methane emissions classification and rainfall estimation, building cloud infrastructure for client server communication etc.
     </p>
     <p>
       I did my Master’s in Computer Science and Engineering at IIT Madras, India. Previously, I worked at Subex Ltd., 
